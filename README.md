@@ -13,7 +13,7 @@ It starts and stops with the /speedtest command (toggle)
 
 Teleport to the test track: /speedroad
 
-[W]- start measurement
+[W]- starts measurement
 
 [S] - stops the clock
 
@@ -22,7 +22,7 @@ Teleport to the test track: /speedroad
 
 [B] - full tuning on/off
 
-[N] - Repairs the vehicle
+[N] - repairs the vehicle
 
 ![events gallery](https://github.com/Ekhion76/speed_test/blob/main/preview_images/speed_test.jpg)
 ![events gallery](https://github.com/Ekhion76/speed_test/blob/main/preview_images/speed_test2.jpg)
